@@ -1,3 +1,5 @@
+Ежедневный журнал пометок и мыслей.
+
 # 2019-05-07
 
 - Прочел [пост](https://dev.to/codeidoscope/tracking-your-progress-to-improve-your-confidence-12lh) и завел эти логи. Попробую публично.
